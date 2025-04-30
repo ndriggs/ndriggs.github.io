@@ -1,6 +1,7 @@
 ---
 layout: archive
-permalink: /favorite-papers/
+title: "Favorite arXiv Papers"
+permalink: /favorite-arxiv-papers/
 author_profile: true
 redirect_from:
   - /favorite-arxiv-papers
