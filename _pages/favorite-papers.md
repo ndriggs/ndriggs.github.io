@@ -1,11 +1,12 @@
 ---
-permalink: /
-title: "Favorite Papers, arXiv and Otherwise"
+layout: archive
+permalink: /favorite-papers/
 author_profile: true
-redirect_from: 
-  - /arXiv-papers/
-  - /favorite-papers.html
+redirect_from:
+  - /favorite-arxiv-papers
 ---
+
+{% include base_path %}
 
 Here are some of my favorite machine learning papers! 
 
