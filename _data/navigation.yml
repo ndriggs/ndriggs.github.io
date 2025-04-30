@@ -23,7 +23,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Favorite Papers"
+  - title: "Favorite arXiv Papers"
     url: /favorite-papers/
     
   - title: "Resume"
